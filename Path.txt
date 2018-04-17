@@ -1,0 +1,14 @@
+Microsoft Windows [Version 10.0.16299.371]
+(c) 2017 Microsoft Corporation. All rights reserved.
+
+C:\Users\Tony>path
+PATH=
+C:\ProgramData\Oracle\Java\javapath;
+C:\WINDOWS\system32;
+C:\WINDOWS;
+C:\WINDOWS\System32\Wbem;
+C:\WINDOWS\System32\WindowsPowerShell\v1.0\;
+C:\Program Files\apache-maven-3.5.3\bin;
+C:\Program Files\Java\jdk-10\bin;
+${maven.home}\bin;
+C:\Users\Tony\AppData\Local\Microsoft\WindowsApps;
